@@ -1,0 +1,6 @@
+{
+  "name": "Al Nasr Attar & Fragrance",
+  "description": "Bespoke Arabic high-end attars, modern French perfumes, and custom AI fragrance pairing for a luxury shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
